@@ -17,7 +17,7 @@ export default function DeveloperCard() {
               @0xkkdemian
             </p>
             <div className='flex gap-2 pb-1 pt-2'>
-              <Chip variant='flat'>👨‍💻前端</Chip>
+              <Chip variant='flat'>👨‍💻产品工程师</Chip>
               <Chip variant='flat'>🛠️全栈</Chip>
               <Chip variant='flat'>✨公链</Chip>
               <Chip variant='flat'>⛵️DAO</Chip>
