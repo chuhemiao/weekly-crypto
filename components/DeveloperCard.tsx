@@ -20,7 +20,7 @@ export default function DeveloperCard() {
               <Chip variant='flat'>👨‍💻产品工程师</Chip>
               <Chip variant='flat'>🛠️全栈</Chip>
               <Chip variant='flat'>✨公链</Chip>
-              <Chip variant='flat'>⛵️DAO</Chip>
+              <Chip variant='flat'>⛵️ibuidl</Chip>
             </div>
             <p className='py-2 text-small text-foreground'>
               ICP生态建设者｜DAO爱好者｜没有群了｜努力挣MBA学费
