@@ -1,5 +1,10 @@
 import { SiteConfig } from '@/types/siteConfig';
-import { BsTools, BsTwitterX, BsYoutube } from 'react-icons/bs';
+import {
+  BsCurrencyBitcoin,
+  BsTools,
+  BsTwitterX,
+  BsYoutube
+} from 'react-icons/bs';
 import { SiBinance } from 'react-icons/si';
 
 const baseSiteConfig = {
@@ -37,6 +42,11 @@ const baseSiteConfig = {
       name: 'Tool',
       href: 'https://tool.kkdemian.com/',
       icon: BsTools
+    },
+    {
+      name: 'Kkdemian',
+      href: 'https://kkdemian.com/',
+      icon: BsCurrencyBitcoin
     }
   ],
   footerLinks: [
