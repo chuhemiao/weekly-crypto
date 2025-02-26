@@ -9,7 +9,8 @@ const nextConfig = {
   compiler: {
     // ssr and displayName are configured by default
     styledComponents: true
-  }
+  },
+  staticPageGenerationTimeout: 600 // timeout after 10 minutes
 };
 
 const withMDX = createMDX({
