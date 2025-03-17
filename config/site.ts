@@ -65,7 +65,6 @@ const baseSiteConfig = {
   footerProducts: [
     { url: 'https://www.youtube.com/@kkdemian', name: 'Youtube' },
     { url: 'https://www.internetcomputer.wiki/', name: 'ICP开发指南' },
-    { url: 'https://www.okx.com/join/1871789', name: '注册OKX交易所' },
     { url: 'https://tool.kkdemian.com/', name: '币圈工具大全' },
     {
       url: 'https://accounts.binance.com/en/register?ref=MKOOSEO4',
